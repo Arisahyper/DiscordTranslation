@@ -1,0 +1,2 @@
+# DiscordTranslation
+for googletrans
