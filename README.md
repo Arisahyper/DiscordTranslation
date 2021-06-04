@@ -1,2 +1,2 @@
 # DiscordTranslation
-for googletrans
+for googletransAPI
